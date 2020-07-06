@@ -11,7 +11,7 @@ body {
   line-height: 22px;
   font-family: "Lobster", serif;
   color: #222222;
-  background:("img/hero-bg.jpg") 
+  background:("img/fon-bg.jpg") 
 }
 h1{
   font-size: 20px;
@@ -20,11 +20,14 @@ h1{
   color: #4B0082
 }
 nav{
-  padding: 0 30px;
   font-size: 14px;
   line-height: 22px;
   font-family: "Impact", serif;
-  color: #222222;
+  color: #ffffff;
+  margin-bottom: 30px;
+  padding: 20px;
+  background-color: #4470c4;
+  border: 5px solid #2d508f;
 }
 footer{
   padding: 0 30px;
