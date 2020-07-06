@@ -11,7 +11,7 @@
       <div class="container">
       <a href="mailto:enotpoloskun@gmail.com">enotpoloskun@gmail.com</a>
       </div> 
-    </header>
+    </header> 
     <main>
       <section class="hero-image">
         <div class="container">
@@ -27,7 +27,7 @@
       </nav>
       <p>ОПОВЕЩЕНИЕ!!!</p>
       <aside>Этот сайт был создан для того чтобы вести свой личный блог.
-      Он МОЖЕТ не вестись каждый т.к времени может не хватать(((aside>
+      Он МОЖЕТ не вестись каждый т.к времени может не хватать(((<aside>
     </main>
     <footer class="page-footer">
       <div class="container">
