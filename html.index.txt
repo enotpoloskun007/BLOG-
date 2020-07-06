@@ -15,7 +15,7 @@
       <br>This site was created in order to maintain my personal blog.
        It MAY NOT be conducted every time because there may not be enough time(((</p>
        
-       <time datetime="2020-07-05">Сегодня</time>
+       <time datetime="2020-07-05T15:10">15:10</time>
        <p>День Первый.
        <br>Day One.p>
        <p><time datetime="2020-07-05">Сегодня</time> я создал свой сайт это 5.07.2020.
