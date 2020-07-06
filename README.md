@@ -36,7 +36,7 @@
        <figure class="project-image">
        <img src="files/project.jpg" width="928" height="536" alt="Cайт инструктора Кекса">
        </figure>
-       <a class="button" href="source/project/index.html">Открыть страницу</a> 
+       <a class="button" href="source/project/index.html">Открыть страницу</a>
       <nav>
       </nav>
     </main>
