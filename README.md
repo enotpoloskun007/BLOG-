@@ -5,8 +5,13 @@
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
-    <header>
-      <h1>Сайт начинающего верстальщика</h1>
+    <header class = "page-header">
+      <div class="container">
+      <a href="mailto:enotpoloskun@gmail.com">enotpoloskun@gmail.com</a>
+      </div> 
+    </header>
+    <main>
+    <h1>Сайт начинающего верстальщика</h1>
       <p>ОПОВЕЩЕНИЕ!!!
       <br>Этот сайт был создан для того чтобы вести свой личный блог.
       Он МОЖЕТ не вестись каждый т.к времени может не хватать(((
@@ -20,13 +25,14 @@
        Это жаркое лето, было 37 градусов по Цельсию.
        <br>Today I created my site on 5.07.2020.
         This summer, hot summer, was 37 degrees for Celsius.</p>
-    </header>
-    <main>
       <nav>
       </nav>
     </main>
-    <footer>
-      Подвал сайта
+    <footer class="page-footer">
+      <div class="container">
+        <a class="footer-email"
+href = "mailto:enotpoloskun@gmail.com">enotpoloskun@gmail.com </a>
+      </div> 
     </footer>
   </body>
 </html>
