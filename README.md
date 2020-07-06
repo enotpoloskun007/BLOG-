@@ -13,7 +13,7 @@
       Он МОЖЕТ не вестись каждый т.к времени может не хватать(((
       <br>NOTICE!!!
       <br>This site was created in order to maintain my personal blog.
-       It MAY NOT be conducted every time because there may not be enough time(((</p>
+       It MAY NOT be conducted every time because there may not be enough time(((</p
        <time datetime="2020-07-05">Сегодня</time>
        <p>День Первый.
        <br>Day One.p>
