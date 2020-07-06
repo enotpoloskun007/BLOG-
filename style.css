@@ -2,16 +2,16 @@ head {
   padding: 0 30px;
   font-size: 14px;
   line-height: 22px;
-  font-family: "Pasifico", serif;
+  font-family: "Lobster", serif;
   color: #222222;
 }
 body {
   padding: 0 30px;
   font-size: 14px;
   line-height: 22px;
-  font-family: "Inconsolata", serif;
+  font-family: "Lobster", serif;
   color: #222222;
-  background:#ffffff url("img/hero-bg.jpg") no-repeat 50% 0;
+  background:("img/hero-bg.jpg") 
 }
 h1{
   font-size: 20px;
@@ -23,16 +23,13 @@ nav{
   padding: 0 30px;
   font-size: 14px;
   line-height: 22px;
-  font-family: "Inconsolata", serif;
+  font-family: "Impact", serif;
   color: #222222;
-}
-
-
 }
 footer{
   padding: 0 30px;
   font-size: 14px;
   line-height: 22px;
-  font-family: "Inconsolata", serif;
+  font-family: "AMATIC SC", serif;
   color: #222222;
 }
