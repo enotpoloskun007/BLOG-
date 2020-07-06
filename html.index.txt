@@ -5,43 +5,32 @@
     <title>Сайт начинающего верстальщика</title>
     <link rel="stylesheet" href="style.css">
   </head>
+  
   <body>
     <header class = "page-header">
       <div class="container">
       <a href="mailto:enotpoloskun@gmail.com">enotpoloskun@gmail.com</a>
       </div> 
     </header>
+    
     <main>
       <section class="hero-image">
         <div class="container">
           <h1 class="heading">Сайт начинающего верстальщика</h1>
         </div>
       </section>
-      <p>ОПОВЕЩЕНИЕ!!!
-      <br>Этот сайт был создан для того чтобы вести свой личный блог.
-      Он МОЖЕТ не вестись каждый т.к времени может не хватать(((
-      <br>NOTICE!!!
-      <br>This site was created in order to maintain my personal blog.
-       It MAY NOT be conducted every time because there may not be enough time(((</p>
-       
-       <time datetime="2020-07-05T15:10">15:10</time>
-       <p>День Первый.
-       <br>Day One.p>
-       <p><time datetime="2020-07-05">Сегодня</time> я создал свой сайт это 5.07.2020.
-       Это жаркое лето, было 37 градусов по Цельсию.
-       <br><time datetime="2020-07-05">Today</time> I created my site on 5.07.2020.
-        This summer, hot summer, was 37 degrees for Celsius.</p>
-       <p>День Второй. <br>Day Two.</p>
-       <p>Сегодня также был и продалжает быть жарко.Но я предлягаю вам посмотреть сайт который я уже делал.
-       <br>Today it was and continues to be hot. But I suggest you look at the site that I already did.</p>
-       <figure class="project-image">
-       <img src="files/project.jpg" width="928" height="536" alt="Cайт инструктора Кекса">
-       </figure>
-       <a class="button" href="source/project/index.html">Открыть страницу</a>
-        
       <nav>
+        <h2>Записи  в Блоге.</h2>
+        <ul>
+          <li> <a href="day-1.html">День Первый.Очень жаркий День.</a></li>
+          <li> <a href="day-2.html">День Второй. Мой сайт.</a></li>
+        </ul>
       </nav>
+      <p>ОПОВЕЩЕНИЕ!!!</p>
+      <aside>Этот сайт был создан для того чтобы вести свой личный блог.
+      Он МОЖЕТ не вестись каждый т.к времени может не хватать(((           </aside>
     </main>
+    
     <footer class="page-footer">
       <div class="container">
         <a class="footer-email" href = "mailto:enotpoloskun@gmail.com">enotpoloskun@gmail.com </a>

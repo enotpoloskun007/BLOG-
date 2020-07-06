@@ -19,22 +19,13 @@ h1{
   font-family: "Impact", serif;
   color: #4B0082
 }
-p{
-  font-size: 20px;
-  line-height: normal;
-  font-family: "AMATIC SC", serif;
-}
-a{
-  font-size: 20px;
-  line-height: normal;
-  font-family: "AMATIC SC", serif;
-}
-time{
-  font-size: 20px;
-  line-height: normal;
-  font-family: "AMATIC SC", serif;  
-}
 nav{
+  padding: 0 30px;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: "Inconsolata", serif;
+  color: #222222;
+}
 
 
 }
