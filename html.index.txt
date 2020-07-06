@@ -44,8 +44,7 @@
     </main>
     <footer class="page-footer">
       <div class="container">
-        <a class="footer-email"
-href = "mailto:enotpoloskun@gmail.com">enotpoloskun@gmail.com </a>
+        <a class="footer-email" href = "mailto:enotpoloskun@gmail.com">enotpoloskun@gmail.com </a>
       </div>
     </footer>
   </body>
