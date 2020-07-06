@@ -11,7 +11,11 @@
       </div> 
     </header>
     <main>
-    <h1>Сайт начинающего верстальщика</h1>
+      <section class="hero-image">
+        <div class="container">
+          <h1 class="heading">Сайт начинающего верстальщика</h1>
+        </div>
+      </section>
       <p>ОПОВЕЩЕНИЕ!!!
       <br>Этот сайт был создан для того чтобы вести свой личный блог.
       Он МОЖЕТ не вестись каждый т.к времени может не хватать(((
@@ -23,8 +27,15 @@
        <br>Day One.p>
        <p><time datetime="2020-07-05">Сегодня</time> я создал свой сайт это 5.07.2020.
        Это жаркое лето, было 37 градусов по Цельсию.
-       <br>Today I created my site on 5.07.2020.
+       <br><time datetime="2020-07-05">Today</time> I created my site on 5.07.2020.
         This summer, hot summer, was 37 degrees for Celsius.</p>
+       <p>День Второй. <br>Day Two.</p>
+       <p>Сегодня также был и продалжает быть жарко.Но я предлягаю вам посмотреть сайт который я уже делал.
+       <br>Today it was and continues to be hot. But I suggest you look at the site that I already did.</p>
+       <figure class="project-image">
+       <img src="files/project.jpg" width="928" height="536" alt="Cайт инструктора Кекса">
+       </figure>
+       <a class="button" href="source/project/index.html">Открыть страницу</a> 
       <nav>
       </nav>
     </main>
@@ -32,7 +43,7 @@
       <div class="container">
         <a class="footer-email"
 href = "mailto:enotpoloskun@gmail.com">enotpoloskun@gmail.com </a>
-      </div> 
+      </div>
     </footer>
   </body>
 </html>
