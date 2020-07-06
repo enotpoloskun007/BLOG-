@@ -2,7 +2,7 @@ head {
   padding: 0 30px;
   font-size: 14px;
   line-height: 22px;
-  font-family: "Inconsolata", serif;
+  font-family: "Pasifico", serif;
   color: #222222;
 
 }
@@ -18,8 +18,14 @@ h1{
   font-size: 20px;
   line-height: normal;
   font-family: "Impact", serif;
+  color: #4B0082
 }
 p{
+  font-size: 20px;
+  line-height: normal;
+  font-family: "AMATIC SC", serif;
+}
+a{
   font-size: 20px;
   line-height: normal;
   font-family: "AMATIC SC", serif;
@@ -39,6 +45,4 @@ footer{
   line-height: 22px;
   font-family: "Inconsolata", serif;
   color: #222222;
-
-
 }
