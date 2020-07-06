@@ -5,6 +5,7 @@
     <title>Сайт начинающего верстальщика</title>
     <link rel="stylesheet" href="style.css">
   </head>
+  
   <body>
     <header class = "page-header">
       <div class="container">
@@ -26,7 +27,7 @@
       </nav>
       <p>ОПОВЕЩЕНИЕ!!!</p>
       <aside>Этот сайт был создан для того чтобы вести свой личный блог.
-      Он МОЖЕТ не вестись каждый т.к времени может не хватать(((           </aside>
+      Он МОЖЕТ не вестись каждый т.к времени может не хватать(((aside>
     </main>
     <footer class="page-footer">
       <div class="container">
