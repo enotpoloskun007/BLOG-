@@ -11,13 +11,13 @@ body {
   line-height: 22px;
   font-family: "Lobster", serif;
   color: #222222;
-  background:("img/fon-bg.jpg") 
+  background:("img/fon-bg.jpg"); 
 }
 h1{
   font-size: 20px;
   line-height: normal;
   font-family: "Impact", serif;
-  color: #4B0082
+  color: #4B0082;
 }
 nav{
   font-size: 14px;
